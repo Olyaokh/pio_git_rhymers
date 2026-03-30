@@ -7,6 +7,7 @@ public class IntLinkedList {
 
     public static final int DEFAULT_VALUE = -1;
     private Node last;
+    //TODO: Usunąć nieużywane pole 'i' , jeśli nie jest już potrzebne.
     int i;
 
     /**
